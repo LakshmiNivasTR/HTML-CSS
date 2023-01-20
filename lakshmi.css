@@ -1,0 +1,194 @@
+.box{
+    
+    display: inline;
+    
+}
+li{
+    display: inline;
+    float: right;
+    padding-left: 5px;
+}
+span{
+    color: blueviolet;
+}
+body{
+    background-color:azure;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+nav{
+    margin-bottom: 20px;
+}
+.a{
+    padding:30px 20px 30px 100px ;
+}
+.b{
+    background-color: black;
+    height: 400px;
+    color: white;
+    text-align: center;
+
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+hr{
+    height: 1px;
+    width: 300px;
+    
+}
+.c{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.out{
+    display: flex;
+    justify-content: space-around;
+}
+.d{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+.f{
+    background-color: white;
+    height: 400px;
+    padding: 5px;
+}
+.f1{
+    text-align: center;
+}
+.skout{
+    width: 500px;
+    height: 4px;
+    background-color: darkgrey;
+}
+.skill{
+        width: 450px;
+        height: 3px;
+        background-color: crimson;
+}
+.cd{
+        width: 500px;  
+        height: 4px;
+        background-color: darkgray;
+}
+.ab{
+    width: 400px;
+    height: 4px;
+    background-color: crimson;
+}
+.jout{
+    width: 500px;
+    height: 4px;
+    background-color: darkgrey;
+}
+.j{
+    width: 350px;
+    height: 4px;
+    background-color: crimson;
+}
+.hi{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.i{
+    width: 475px;
+    height: 4px;
+    background-color: crimson;
+}
+.hii{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.ii{
+    width: 300px;
+    height: 4px;
+    background-color: crimson;
+}
+
+.eng{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.en{
+    width: 450px;
+    height: 4px;
+    background-color: crimson;
+}
+.tam{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.ta{
+    width: 450px;
+    height: 4px;
+    background-color: crimson;
+}
+.hin{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.hinn{
+    width: 375px;
+    height: 4px;
+    background-color: crimson;
+}
+.tel{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.ti{
+    width: 200px;
+    height: 4px;
+    background-color: crimson;
+}
+.mal{
+    width: 500px;
+    height: 4px;
+    background-color: darkgray;
+}
+.ma{
+    width: 200px;
+    height: 4px;
+    background-color: crimson;
+}
+.f3{
+    display: flex;
+    justify-content: space-around;
+}
+.out{
+    padding-top: 50px;
+}
+.u{
+    padding-left:200px;
+}
+#w{
+    width: 500px;
+}
+.tt{
+    text-align: center;
+}
+.black{
+    float: left;
+    color: red;
+    
+}
+header{
+    clear: both;
+}
