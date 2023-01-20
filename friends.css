@@ -1,0 +1,43 @@
+body
+{
+    background-image: url(https://img.freepik.com/premium-photo/beautiful-blue-sky-clouds-with-daylight-natural-background-vast-blue-sky-clouds-sky_387624-36.jpg?w=2000);
+    background-size: cover;
+}
+#TitleName
+{
+    text-align: center;
+    color: black;
+}
+#yourName
+{
+    text-align: center;
+    color: black;
+}
+#textbox
+{
+    
+}
+#field1
+{
+    color: black;
+}
+#textBox1
+{
+  width:20% ;
+  height: 85px;
+  opacity: 0.4;
+}
+#textBox2
+{
+  width:20% ;
+  height: 85px;
+  opacity: 0.4;
+}
+#yesMaybe
+{
+  color: black;
+}
+#bestColour
+{
+   color: black;
+}
